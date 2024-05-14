@@ -62,5 +62,6 @@ If you are using the provided codes or find this work helpful for your project, 
 
 ```
 @article{
+title=Deep Radiomics-based Prognostic Prediction of Oral Cancer using Optical Coherence Tomography
 }
 ```
