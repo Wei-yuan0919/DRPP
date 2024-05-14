@@ -1,0 +1,8 @@
+matplotlib
+pandas
+numpy
+requests
+wget
+xlrd
+pillow
+scikit-learn
